@@ -39,11 +39,11 @@
   },
   "devDependencies": {
     "mocha": "1.x.x",
-    "restify": "3.x"
+    "restify": "5.x"
   },
   "peerDependencies": {
-    "restify": "3.x || 4.x || 6.x",
-    "restify-errors": "3.x || 5.x"
+    "restify": "3.x - 6.x",
+    "restify-errors": "3.x - 6.x"
   },
   "engines": {
     "node": ">= 0.10.0"
