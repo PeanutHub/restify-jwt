@@ -1,6 +1,6 @@
 {
   "name": "peanut-restify-jwt",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "description": "JWT authentication middleware. (with API KEY support)",
   "keywords": [
     "auth",
